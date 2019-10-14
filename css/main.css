@@ -1,0 +1,14 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+header {
+     background: linear-gradient(45deg, rgba(49, 231, 192, .9), rgba(28, 195, 214, .9)), url(../img/bg.jpg) no-repeat top center / cover;
+}
+
+.container {
+     width: 1440px;
+     margin: 0 auto;
+}
